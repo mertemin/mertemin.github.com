@@ -2,4 +2,4 @@
 
 Jekyll powered blog.
 
-[link](mertemin.github.io)
+[link](http://mertemin.github.io)
