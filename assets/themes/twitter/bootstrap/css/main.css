@@ -1,0 +1,156 @@
+a {
+	color: #57ad68;
+}
+
+a:focus, a:hover {
+	color: #274257;
+}
+
+li {
+	font-size: 16px;
+	line-height: 30px;
+}
+
+::selection { 
+	background: #274257;
+	color: #fff;
+	text-shadow: none;
+}
+
+.navbar .brand {
+	color: #dededc;
+	padding-top: 15px;
+	float: right;
+}
+
+.navbar .brand:hover {
+	color: #b3b3b1;
+}
+
+.navbar-fixed-top .navbar-inner::after, .navbar-static-top .navbar-inner::after {
+	content: '';
+	display: block;
+	position: absolute;
+	top: -2px;
+	height: 1px;
+	width: 100%;
+	background: #e0e0df;
+}
+
+.navbar-fixed-top .navbar-inner, .navbar-static-top .navbar-inner {
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	border: none;
+	background: #F9F9F7;
+}
+
+.navbar .btn-navbar {
+	border: none;
+	background: none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	margin-bottom: 5px;
+}
+
+.navbar .btn-navbar:hover {
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+}
+
+.navbar .btn-navbar .icon-bar {
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	background: #274257;
+}
+
+.navbar .nav > li > a {
+	padding: 15px 20px;
+	color: #333332;
+	text-shadow: none;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+}
+
+.navbar .nav > li > a:hover {
+	background: #274257;
+	color: #FFFFFF;
+}
+
+.navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	background: #57ad68;
+	color: #fff;
+}
+
+#content {
+	width: 50%;
+	padding-top: 75px;
+}
+
+@media (max-width: 979px) and (min-width: 768px) {
+	#content {
+		width: 65%;
+		padding-top: 5px;
+	}
+
+	.navbar .brand {
+		display: none;
+	}
+}
+
+@media (max-width: 767px) {
+	#content {
+		width: 85%;
+		padding-top: 5px;
+	}
+
+	.navbar .brand {
+		display: none;
+	}
+}
+
+#content .item {
+	color: #4D4D4D;
+	margin: 30px 20px;
+	border-bottom: 1px dashed #E3E3E3;
+	font-weight: 300;
+}
+
+#content .item h1.title {
+	font-size: 40px;
+	font-weight: normal;
+}
+
+#content .item h1.title a {
+	color: #333332;
+}
+
+#content .item h1.title a:hover, #content .item h1.title a:focus {
+	color: #333332;
+	text-decoration: underline;
+}
+
+#content .item p {
+	display: block;
+	margin: 0 0 24px;
+	line-height: 30px;
+	font-size: 16px;
+}
+
+#content .item p.info {
+	font-size: 0.9em;
+	color: #b3b3b1;
+}
