@@ -45,7 +45,7 @@
           </button>
           <div class="nav-collapse collapse">
             <ul class="nav">
-              <li><a href="/">Home</a></li>
+              <li  {% if page.url == "/index.html" %}class="active"{% endif %}><a href="/">Home</a></li>
               <!--<li><a href="#about">About</a></li>
               <li><a href="#contact">@mertemin</a></li>-->
               {% assign pages_list = site.pages %}
