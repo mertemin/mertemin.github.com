@@ -45,9 +45,8 @@
           </button>
           <div class="nav-collapse collapse">
             <ul class="nav">
-              <li  {% if page.url == "/index.html" %}class="active"{% endif %}><a href="/">Home</a></li>
-              <!--<li><a href="#about">About</a></li>
-              <li><a href="#contact">@mertemin</a></li>-->
+              <li>{{page.url}}-{{link.url}}-{{page.layout}}</li>
+              <li  {% if link.url == "" %}class="active"{% endif %}><a href="/">Home</a></li>
               {% assign pages_list = site.pages %}
               {% assign group = 'navigation' %}
               {% include JB/pages_list %}
