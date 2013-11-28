@@ -17,4 +17,4 @@ I like to apply research ideas into applications and see them action. For exampl
 
 **What’s Happening?**
 
-> During daytime I try to learn how a huge software system like Bing works and contribute to it. Nighttime I am a freelance researcher reading papers, working on my thesis and developing applications over research ideas.
+> By day software engineer trying to understand the overall architecture of Bing and figure out ways to develop new services and extend existing ones for better user experience. By night freelance researcher working on various topics from distributed systems to crowdsourcing.
