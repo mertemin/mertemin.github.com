@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-I am a Software Development Engineer at Microsoft. I work in Bing Information Platform & Experiences team. At the same time I am a masters student at [Bilkent University, Ankara, Turkey](http://www.bilkent.edu.tr). Here is my [CV](https://dl.dropboxusercontent.com/u/36697720/docs/MertEminKalender_cv.pdf). More about myself is as follows:
+I am a Software Development Engineer at Microsoft. I am a part of Bing Information Platform & Experiences team. At the same time I am a masters student at [Bilkent University, Ankara, Turkey](http://www.bilkent.edu.tr). Here is my [CV](https://dl.dropboxusercontent.com/u/36697720/docs/MertEminKalender_cv.pdf). More about myself is as follows:
 
 I like to apply research ideas into applications and see them action. For examples check my CV.
 
