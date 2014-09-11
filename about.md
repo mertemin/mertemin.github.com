@@ -6,15 +6,15 @@ group: navigation
 ---
 {% include JB/setup %}
 
-I am a Software Development Engineer at Microsoft. I am a part of Bing Information Platform & Experiences team. At the same time I am a masters student at [Bilkent University, Ankara, Turkey](http://www.bilkent.edu.tr). Here is my [CV](https://dl.dropboxusercontent.com/u/36697720/docs/MertEminKalender_cv.pdf). More about myself is as follows:
+I am a Software Development Engineer at Microsoft. I am a part of Bing Experiences team working on Cortana. Here is my [CV](https://dl.dropboxusercontent.com/u/36697720/docs/MertEminKalender_cv.pdf). More about myself is as follows:
 
 I like to apply research ideas into applications and see them action. For examples check my CV.
 
 **The Next Move**
 
-> My plan is to complete masters degree by February 2014. I am working on my thesis, which is about crowdsourcing. I try to develop a platform that enables efficient and effective collaboration of human and software resources.
+> My plan is to start focusing on web development and improve my skills and expertise in that area. I'd like involve in the teams that are working agile on the products used by millions of users.
 
 
 **What’s Happening?**
 
-> By day software engineer trying to understand the overall architecture of Bing and figure out ways to develop new services and extend existing ones for better user experience. By night freelance researcher working on various topics from distributed systems to crowdsourcing.
+> By day I am software engineer working on the Bing stack and figuring out ways to develop new services and extend existing ones for better user experience for Cortana users. By night freelance researcher/developer working on various topics from distributed systems to crowdsourcing.
