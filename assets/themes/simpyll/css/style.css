@@ -143,6 +143,11 @@ li {
 	text-decoration: underline;
 }
 
+#content .item h3,
+#content .item h4 {
+	font-weight: 400;
+}
+
 #content .item p {
 	display: block;
 	margin: 0 0 24px;
