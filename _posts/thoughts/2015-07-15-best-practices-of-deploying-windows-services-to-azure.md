@@ -89,6 +89,11 @@ Create a startup task in your service definition file. Select the execution cont
 		<Task commandLine="InstallAgent.cmd" executionContext="elevated" taskType="background" />
 	</Startup>
 
+#### Create a Startup Task
+Set the execution context to `elevated` your service definition file.
+
+	<Runtime executionContext="elevated" />
+
 #### Start Service in Your Role
 Start your service in your role's `OnStart` entry point using `ServiceController` helper classes.
 
